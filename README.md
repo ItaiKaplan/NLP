@@ -1,2 +1,2 @@
 # NLP
-Project from Reichman university NLP course
+Projects from Reichman university NLP course
